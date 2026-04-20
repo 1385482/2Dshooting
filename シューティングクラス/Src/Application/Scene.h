@@ -27,6 +27,8 @@ private:
 	PauseScene  m_pause;
 	ResultScene m_result;
 
+	int test = 0;
+
 
 public:
 	void Init();
